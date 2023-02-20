@@ -1,4 +1,4 @@
-# SaCode Online 2023 day07
+# SaCode Online 2023 Day 07
 
 Belajar buat Header Website menggunakan Boostrap 5.x
 
